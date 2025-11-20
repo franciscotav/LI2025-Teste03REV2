@@ -1,0 +1,17 @@
+    1  git clone https://github.com/franciscotav/LI2025-Teste03REV2.git
+    2  git add .
+    3  ls
+    4  cd LI2025-Teste03REV2/
+    5  git add .
+    6  git commit -m "3ª tarefa concluída"
+    7  git push origin main
+    8  git add .
+    9  git commit -m "4ª tarefa"
+   10  git push origin main
+   11  git pull
+   12  git add .
+   13  git commit -m "5ª tarefa cumprida"
+   14  git push origin main
+   15  git push
+   16  git pull
+   17  history > meuscomandoslocais.txt
